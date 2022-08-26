@@ -1,5 +1,5 @@
 # ED-UGR
-Repository for the subject Data Structures in the Computer Engineering's Degree at the UGR
+Repository for the subject Data Structures (Estructuras de Datos) in the Computer Engineering's Degree at the UGR
 
 - Contains:
   - Exercises of queues, stacks, maps, vectors and other containers of the STL. Theory exercises.
