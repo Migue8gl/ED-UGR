@@ -1,11 +1,11 @@
 # ED-UGR
-Repositorio para la asignatura Estructuras de Datos del Grado de Ingeniería Informática UGR
+Repository for the subject Data Structures in the Computer Engineering's Degree at the UGR
 
-- Contiene:
-  - Relaciones de ejercicios sobre colas, pilas, diccionarios, vectores y demás contenedores de la stl. Ejercicios de teoría.
-  - Prácticas:
-    - **P2** (la práctica 1 era una ejemplo): implementación de una clase ""Imagen"" para la representación de imágenes. Creación de funciones para zoom, morphing, reducción etc.
-    - **P3**: uso de estructuras de datos para creae el TDA Pila_Max (pila con un máximo). Se utilizará una cola y un vector dinámico.
-    - **P4**: uso de estructuras de tipo lista para crear un TDA diccionario y uso de estructura tipo map para crear un TDA guía de teléfonos.
-    - **P5**: implementación de un software para ayudar a un compañía aérea poder visualizar sus rutas (por
-qué países pasa). En concreto la empresa aérea querrá visualizar en un mapa del mundo rutas con un código determinado. Para ello se especifícan los TDA punto, ruta, almacén de rutas y los operadores necesarios.
+- Contains:
+  - Exercises of queues, stacks, maps, vectors and other containers of the STL. Theory exercises.
+  - Practices:
+    - **P2** (practice 1 was an example): implementation of an ""Image"" class for the representation of images. Creation of functions for zoom, morphing, reduction etc.
+    - **P3**: use of data structures to create the TDA Stack_Max (stack with a maximum). A list and a dynamic vector will be used.
+    - **P4**: use of list-type structures to create a dictionary TDA and use of map-type structures to create a telephone directory TDA.
+    - **P5**: implementation of a software to help an airline to visualize its routes (for
+which countries does it go through). Specifically, the airline will want to display routes with a specific code on a world map. To do this, the TDA point, route, route store and the necessary operators are specified.
